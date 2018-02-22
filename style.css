@@ -10,12 +10,7 @@ font-family: 'Russo One', sans-serif;
 h3 {color: red;
 font-family: 'Russo One', sans-serif;
 }
-p {text-align: left ;
-  font-family: 'oswald', sans-serif;
+p {font-family: 'oswald', sans-serif;
 }
-div {
-    display: block;
-}
-ul {position: absolute;
-left: 485px;
+ul {margin-left: 480PX;
 }
